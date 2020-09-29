@@ -26,6 +26,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
         - [Mithril](#mithril)
         - [Angular](#angular)
         - [Stencil.js](#stenciljs)
+        - [SmartUI](#smartui)
     - [Components](#components)
     - [WebComponents.org](#webcomponentsorg)
     - [Community](#community)
@@ -236,6 +237,11 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Stencil.js site](https://stenciljs.com/)
 * [Git repository](https://github.com/ionic-team/stencil)
 
+### Smart UI 
+
+* [Smart UI site](https://htmlelements.com/)
+* [Git repository](https://github.com/HTMLElements/smart-webcomponents)
+
 ### Bit
 
 * [Bit](https://github.com/teambit/bit) component development, reuse and collaboration tool
@@ -253,6 +259,7 @@ A curated list of awesome Web Components tools, articles and resources. Inspired
 * [Router Manager](https://github.com/erikringsmuth/app-router) by Erik Ringsmuth.
 * [Polymer Elements Catalog](https://elements.polymer-project.org/)
 * [Responsive Embed](https://github.com/joselitojunior/responsive-embed) by Joselito Júnior
+* [Smart Web Components](https://github.com/HTMLElements/smart-webcomponents) by jQWidgets
 
 ## WebComponents.org
 
